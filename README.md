@@ -9,6 +9,14 @@
 <img width="1390" height="767" alt="스크린샷 2026-03-26 175530" src="https://github.com/user-attachments/assets/0886fc8f-7248-40b5-8a6c-38266a0085f0" />
 
 >docs/presentation/발표자료 를 통해서 자세히 확인 할 수 있습니다.
+
+
+# 발표 영상
+
+
+https://github.com/user-attachments/assets/c2f55573-e5a0-48e7-b543-a94370bf8cc8
+
+
 ---
 
 ## 1. 프로젝트 개요
